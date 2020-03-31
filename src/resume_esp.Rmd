@@ -1,0 +1,233 @@
+---
+title: "J. Gibrán Peniche"
+author: J. Gibrán Peniche
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+    css: ['style.css', 'resume']
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r Chunk options, echo=FALSE}
+knitr::opts_chunk$set(warning = F, message = F, echo = FALSE, results = 'asis')
+```
+
+Aside
+================================================================================
+
+```{r Logo}
+knitr::include_graphics(here::here('figs', 'dists.png'))
+
+```
+
+Contacto {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> jgpeniche@gmail.com
+- <i class="fa fa-github"></i> github.com/jgpeniche
+- <i class="fa fa-phone"></i> (+52) 55-44-39-63-80
+
+Habilidades {#skills}
+--------------------------------------------------------------------------------
+
+**TI:** 
+
+- <i class="fa fa-laptop-code"></i> Microsoft Office
+- <i class="fa fa-laptop-code"></i> R (Shiny, MarkDown) 
+- <i class="fa fa-laptop-code"></i> Julia
+
+**Idiomas:** 
+
+- - <i class="fa fa-globe-americas"></i> Inglés
+
+
+Áreas de Interés {#interests}
+--------------------------------------------------------------------------------
+
+<i class="fa fa-wave-square"></i> Administración de Portafolios
+
+<i class="fa fa-wave-square"></i> Análisis Financiero
+
+<i class="fa fa-wave-square"></i> ACR
+
+<i class="fa fa-wave-square"></i> Inferencia bayesiana aplicada a modelos financieros (series de tiempo, construcción de portafolios, simulación estocástica, pronóstico) 
+
+<i class="fa fa-wave-square"></i> Finanzas desde la perspectiva de la ciencia de datos
+
+
+Main
+================================================================================
+
+J. Gibrán Peniche {#title}
+--------------------------------------------------------------------------------
+
+Educación {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### (ITAM) Instituto Tecnológico Autónomo de México
+
+Licenciatura en Actuaria 
+
+CDMX, Mexico
+
+2014 - 2020
+
+Los cursos incluyeron: Inferencia Bayesiana, ACR, Creación y valuación de productos de seguros, Métodos Numéricos.
+
+### (ITAM) Instituto Tecnológico Autónomo de México
+
+Licenciatura en Dirección Financiera
+
+CDMX, Mexico
+
+2014 - 2020
+
+Los cursos incluyeron: Administración de Portafolio, Análisis Financiero de la Empresa, Finanzas Corporativas, Mercado de Dinero e Instrumentos Derivados.
+ 
+Experiencia Laboral {data-icon=briefcase} 
+--------------------------------------------------------------------------------
+
+### Assistente
+
+*Departamento de Actuaria*
+
+ITAM
+
+09-2019 - Presente
+
+Dr. Manuel Mendoza Ramírez.
+Dr. Alberto Contreras Cristán
+
+**Descripciónn**:
+
+  - Inferencia Bayesian para poblaciones finitas vía modelos semiparamétricos
+  - Mezclas Infinitas de Normales con Procesos de Dirichilet de referencia
+  - Optimización de código traduciendo de R a Julia
+
+### Assistente
+
+*Departamento de Contabilidad*
+
+ITAM
+
+06-2018 - Presente
+
+Dra. Araceli Elguea Espinosa
+
+**Descripción**:
+
+  - Laboratorios sobre estimación de ventas
+  - Regresión Líneal aplicada
+  
+### Laboratorista
+
+*Representación de la Licenciatura de Dirección Financiera*
+
+ITAM
+
+02-2020 - Presente
+
+**Descripción**:
+  
+  - Creación de productos de datos completos para finanzas (Markdown y Shiny) y ajuste de modelos
+  
+### Asistente
+
+*Oficina de Servicio Social*
+
+ITAM
+
+06-2016 - 06-2017
+
+Gisela Carmona Rodríguez
+
+**Descripción**:
+
+  - Trámites de validación de servicio social e intrcambio académico
+  -	Apoyo en la coordinación de los programas “Prepa Abierta para adultos” y “PERAJ adopta un amig@” programs 
+
+### Presidente y Fundador
+
+*Salsa con Colmillo Escuela y Compañía de Baile*
+
+ITAM
+
+06-2016 - 06-2019
+
+**Descripción**:
+
+  - Responsable de un equipo de 6 personas
+  - Clases de casino por niveles (grupos de entre 20 y 40 personas)
+  - Administraciónde prespuesto y planeación de eventos
+  - Responsable principal de diseño coreográfico
+
+
+Actividades Extra Curriculares {data-icon=file-alt}
+--------------------------------------------------------------------------------
+
+### CFA Challenge
+
+Primer lugar nacional
+
+N/A
+
+11-2019
+
+**Organizado por**: CFA Society Mexico 
+
+**Descripción**: *Emitir una recomendación de inversión para un empresa pública del mercado mexicano basada en análisis funadamental. La competencia consistió en la entrega de un reporte escrito y una presentación oral de la propuesta.* 
+
+### Banking the Unbankable, Desafio de Inclusión Financiera
+
+Participante
+
+N/A
+
+05-2019
+
+**Organizado por**: PwC
+
+**Descripción**: *Desarrollo de un préstamo para estudios universitarios. El préstamo tenía como colateral el ingreso futuro y una póliza de vida para hacer la tasa de interés más accesible.* 
+
+### Siginificancia estadística del CAPM en México
+
+Investigación
+
+N/A
+
+12-2018
+
+**Organizado por**: Atanu Paul  
+
+**Descripción**: *Probar la significacia estadística de los retornos realizados versus los retornos promedios en portafolios con acciones públicas del mercado mexicano.*
+
+
+### Inferencia Bayesiana sobre la TIIE
+
+Investigación
+
+N/A
+
+06-2018
+
+**Organizado por**: Felix H. A. Matthys  
+
+**Descripciónn**: *Ajustar una distribución T de Student sobre los cambios en el nivel de la TIIE para diferentes vencimientos. Se requería encontrar los grados de libertad para los datos normalizados para calcular el Valor en Riesgo de un portafoio de bonos.* 
+
+### Ruedafest, Campeonato Latinoaméricano de Casino
+
+Segundo lugar Latinoaméricano
+
+N/A
+
+02-2018
+
+**Organizado por**: RuedaFest 
+
+**Descripciónn**: *Segundo lugar en la categoría rueda novel con una coreografía de 20 elementos.*
+ 
+ 
+ 

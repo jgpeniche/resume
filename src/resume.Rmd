@@ -1,0 +1,234 @@
+---
+title: "J. Gibrán Peniche"
+author: J. Gibrán Peniche
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+    css: ['style.css', 'resume']
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r Chunk options, echo=FALSE}
+knitr::opts_chunk$set(warning = F, message = F, echo = FALSE, results = 'asis')
+```
+
+
+Aside
+================================================================================
+
+```{r Logo}
+knitr::include_graphics(here::here('figs', 'dists.png'))
+
+```
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> jgpeniche@gmail.com
+- <i class="fa fa-github"></i> github.com/jgpeniche
+- <i class="fa fa-phone"></i> (+52) 55-44-39-63-80
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+**IT:** 
+
+- <i class="fa fa-laptop-code"></i> Microsoft Office
+- <i class="fa fa-laptop-code"></i> R (Shiny, MarkDown) 
+- <i class="fa fa-laptop-code"></i> Julia
+
+**Languages:** 
+
+- - <i class="fa fa-globe-americas"></i> Spanish
+- - <i class="fa fa-globe-americas"></i> English
+
+
+Areas of Interest {#interests}
+--------------------------------------------------------------------------------
+
+<i class="fa fa-wave-square"></i> Asset Managment
+
+<i class="fa fa-wave-square"></i> Finantial Analysis
+
+<i class="fa fa-wave-square"></i> QRM
+
+<i class="fa fa-wave-square"></i> Bayesian Inference applied to finantial models (time series, portfolio management, stochastic simulation, forecasting) 
+
+<i class="fa fa-wave-square"></i> Finance from the data science perspective
+
+
+Main
+================================================================================
+
+J. Gibrán Peniche {#title}
+--------------------------------------------------------------------------------
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### (ITAM) Instituto Tecnológico Autónomo de México
+
+B.S., Actuarial Sciences 
+
+Mexico City, Mexico
+
+2014 - 2020
+
+Courses included: Bayesian Inference, QRM, Development and Valuation of insurance products and Numerical Methods.
+
+### (ITAM) Instituto Tecnológico Autónomo de México
+
+B.S., Finantial Direction
+
+Mexico City, Mexico
+
+2014 - 2020
+
+Courses Included: Portfolio Management, Finantial Analysis, Corporate Finance, Fixed Income and Derivative instruments.
+ 
+Experience {data-icon=briefcase} 
+--------------------------------------------------------------------------------
+
+### Assistant 
+
+*Actuarial Sciences Department*
+
+ITAM
+
+09-2019 - Present
+
+Manuel Mendoza Ramírez, PhD.
+Alberto Contreras Cristán, PhD
+
+**Description**:
+
+  - Bayesian inference for finite populations via semiparemtric models
+  - Infinite Normal Mixtures with Dirichilet Process prior
+  - Code Optimization translating from R to Julia
+
+### Assistant 
+
+*Accounting Department*
+
+ITAM
+
+06-2018 - Present
+
+Araceli Elguea Espinosa, PhD
+
+**Description**:
+
+  - Workshops on sales estimation
+  - Applied Linear Regression
+  
+### Seminarist 
+
+*Finantial Direction Representation*
+
+ITAM
+
+02-2020 - Present
+
+**Description**:
+  
+  - Workshops in creation of complete data products for finance (Markdown & Shiny) and model calibration
+  
+### Assistant 
+
+*Social Service Office*
+
+ITAM
+
+06-2016 - 06-2017
+
+Gisela Carmona Rodríguez
+
+**Description**:
+
+  - Social service release and exchange courses revalidation procedures
+  -	Support on the coordination of “Prepa Abierta para adultos” and “PERAJ adopta un amig@” programs 
+
+### President & Founder
+
+*Salsa con Colmillo Dancing School & Company*
+
+ITAM
+
+06-2016 - 06-2019
+
+**Description**:
+
+  - Head of a 6-person team
+  - Dance classes by levels (groups between 20 and 40 people)
+  - Budget Administration, personnel training and event planning 
+  - Principal responsible of choreographic design
+
+Extra Curricular Activities {data-icon=file-alt}
+--------------------------------------------------------------------------------
+
+### CFA Challenge
+
+National 1st Place
+
+N/A
+
+11-2019
+
+**Organizer**: CFA Society Mexico 
+
+**Description**: *Issue an investment recommendation on a publicly traded firm based on fundamental analysis. Competition consisted on a written report and an oral presentation.* 
+
+### Banking the Unbankable, Finantial Inclusion Challenge
+
+Participant
+
+N/A
+
+05-2019
+
+**Organizer**: PwC
+
+**Description**: *Create a tuiton loan for Mexican Students. The loan would be collateralized on future income and over a Temporal life life insurance polcy in order for interest to be afordable.* 
+
+### Realized vs. Average Returns on statistical significance of CAPM
+
+Research
+
+N/A
+
+12-2018
+
+**Organizer**: Atanu Paul  
+
+**Description**: *Test statiscal significance of realized versus average returns in portfolios of Mexican publicly traded stocks.*
+
+
+### Bayesian inference over Mexican TIIE
+
+Research
+
+N/A
+
+06-2018
+
+**Organizer**: Felix H. A. Matthys  
+
+**Description**: *Fitting a Student´s T distribution over changes in levels of Mexican TIIE at different maturities. Degrees of freedom of normalized data were to be found in order to calculate Value at Risk of a bond portfolio.* 
+
+### Ruedafest, Latin-American Casino Championships
+
+Latin-American 2nd Place
+
+N/A
+
+02-2018
+
+**Organizer**: RuedaFest 
+
+**Description**: *2nd place of Rueda Novel Category with a 20-element coreography.*
+ 
+ 
+
