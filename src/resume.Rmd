@@ -132,6 +132,8 @@ ITAM
 
 02-2020 - 03-2020
 
+
+
 **Description**:
   
   - Workshops in creation of complete data products for finance (Markdown & Shiny) and model calibration
@@ -171,11 +173,11 @@ Extra Curricular Activities {data-icon=file-alt}
 
 ### CFA Challenge
 
-National 1st Place
+National 1st Place, Regional Finalist
 
 N/A
 
-11-2019
+11-2019 - 04-2020
 
 **Organizer**: CFA Society Mexico 
 
