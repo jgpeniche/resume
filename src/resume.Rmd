@@ -38,6 +38,7 @@ Skills {#skills}
 
 - <i class="fa fa-laptop-code"></i> Microsoft Office
 - <i class="fa fa-laptop-code"></i> R (Shiny, MarkDown) 
+- <i class="fa fa-laptop-code"></i> C++
 - <i class="fa fa-laptop-code"></i> Julia
 
 **Languages:** 
@@ -51,11 +52,11 @@ Areas of Interest {#interests}
 
 <i class="fa fa-wave-square"></i> Asset Managment
 
-<i class="fa fa-wave-square"></i> Finantial Analysis
+<i class="fa fa-wave-square"></i> Financial Analysis
 
 <i class="fa fa-wave-square"></i> QRM
 
-<i class="fa fa-wave-square"></i> Bayesian Inference applied to finantial models (time series, portfolio management, stochastic simulation, forecasting) 
+<i class="fa fa-wave-square"></i> Bayesian Inference for financial models (time series, portfolio management, stochastic simulation, forecasting) 
 
 <i class="fa fa-wave-square"></i> Finance from the data science perspective
 
@@ -81,13 +82,13 @@ Courses included: Bayesian Inference, QRM, Development and Valuation of insuranc
 
 ### (ITAM) Instituto Tecnológico Autónomo de México
 
-B.S., Finantial Direction
+B.S., Financial Direction
 
 Mexico City, Mexico
 
 2014 - 2020
 
-Courses Included: Portfolio Management, Finantial Analysis, Corporate Finance, Fixed Income and Derivative instruments.
+Courses Included: Portfolio Management, Financial Analysis, Corporate Finance, Fixed Income and Derivative instruments.
  
 Experience {data-icon=briefcase} 
 --------------------------------------------------------------------------------
@@ -105,9 +106,9 @@ Alberto Contreras Cristán, PhD
 
 **Description**:
 
-  - Bayesian inference for finite populations via semiparemtric models
+  - Bayesian inference for finite populations via semi paremetric models
   - Infinite Normal Mixtures with Dirichilet Process prior
-  - Code Optimization translating from R to Julia
+  - Code Optimization translating from R to Julia and c++
 
 ### Assistant 
 
@@ -183,7 +184,7 @@ N/A
 
 **Description**: *Issue an investment recommendation on a publicly traded firm based on fundamental analysis. Competition consisted on a written report and an oral presentation.* 
 
-### Banking the Unbankable, Finantial Inclusion Challenge
+### Banking the Unbankable, Financial Inclusion Challenge
 
 Participant
 
@@ -193,7 +194,7 @@ N/A
 
 **Organizer**: PwC
 
-**Description**: *Create a tuiton loan for Mexican Students. The loan would be collateralized on future income and over a Temporal life life insurance polcy in order for interest to be afordable.* 
+**Description**: *Create a tuiton loan for Mexican Students. The loan would be collateralized on future income and over a Temporal life insurance policy in order for interest to be affordable.* 
 
 ### Realized vs. Average Returns on statistical significance of CAPM
 
