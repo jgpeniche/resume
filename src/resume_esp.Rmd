@@ -37,6 +37,7 @@ Habilidades {#skills}
 
 - <i class="fa fa-laptop-code"></i> Microsoft Office
 - <i class="fa fa-laptop-code"></i> R (Shiny, MarkDown) 
+- <i class="fa fa-laptop-code"></i> C++
 - <i class="fa fa-laptop-code"></i> Julia
 
 **Idiomas:** 
@@ -96,7 +97,7 @@ Experiencia Laboral {data-icon=briefcase}
 
 ITAM
 
-09-2019 - Presente
+09-2019 - 05-2020
 
 Dr. Manuel Mendoza Ramírez.
 Dr. Alberto Contreras Cristán
@@ -105,7 +106,7 @@ Dr. Alberto Contreras Cristán
 
   - Inferencia Bayesian para poblaciones finitas vía modelos semiparamétricos
   - Mezclas Infinitas de Normales con Procesos de Dirichilet de referencia
-  - Optimización de código traduciendo de R a Julia
+  - Optimización en C++ y Julia de código en R 
 
 ### Assistente
 
@@ -128,7 +129,7 @@ Dra. Araceli Elguea Espinosa
 
 ITAM
 
-02-2020 - Presente
+02-2020 - 05-2020
 
 **Descripción**:
   
@@ -170,7 +171,7 @@ Actividades Extra Curriculares {data-icon=file-alt}
 
 ### CFA Challenge
 
-Primer lugar nacional
+Primer lugar nacional, Finalista Regional
 
 N/A
 
