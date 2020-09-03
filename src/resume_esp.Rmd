@@ -104,7 +104,7 @@ Dr. Alberto Contreras Cristán
 
 **Descripciónn**:
 
-  - Inferencia Bayesian para poblaciones finitas vía modelos semiparamétricos
+  - Inferencia Bayesiana para poblaciones finitas vía modelos semiparamétricos
   - Mezclas Infinitas de Normales con Procesos de Dirichilet de referencia
   - Optimización en C++ y Julia de código en R 
 
@@ -147,8 +147,8 @@ Gisela Carmona Rodríguez
 
 **Descripción**:
 
-  - Trámites de validación de servicio social e intrcambio académico
-  -	Apoyo en la coordinación de los programas “Prepa Abierta para adultos” y “PERAJ adopta un amig@” programs 
+  - Trámites de validación de servicio social e intercambio académico
+  -	Apoyo en la coordinación de los programas “Prepa Abierta para adultos” y “PERAJ adopta un amig@” 
 
 ### Presidente y Fundador
 
@@ -179,7 +179,7 @@ N/A
 
 **Organizado por**: CFA Society Mexico 
 
-**Descripción**: *Emitir una recomendación de inversión para un empresa pública del mercado mexicano basada en análisis funadamental. La competencia consistió en la entrega de un reporte escrito y una presentación oral de la propuesta.* 
+**Descripción**: *Emitir una recomendación de inversión para un empresa pública del mercado mexicano basada en análisis fundamental. La competencia consistió en la entrega de un reporte escrito y una presentación oral de la propuesta.* 
 
 ### Banking the Unbankable, Desafio de Inclusión Financiera
 
@@ -203,7 +203,7 @@ N/A
 
 **Organizado por**: Atanu Paul  
 
-**Descripción**: *Probar la significacia estadística de los retornos realizados versus los retornos promedios en portafolios con acciones públicas del mercado mexicano.*
+**Descripción**: *Probar la significancia estadística de los retornos realizados versus los retornos promedios en portafolios con acciones públicas del mercado mexicano.*
 
 
 ### Inferencia Bayesiana sobre la TIIE

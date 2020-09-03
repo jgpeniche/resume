@@ -29,7 +29,7 @@ Contact Info {#contact}
 
 - <i class="fa fa-envelope"></i> jgpeniche@gmail.com
 - <i class="fa fa-github"></i> github.com/jgpeniche
-- <i class="fa fa-phone"></i> (+52) 55-44-39-63-80
+- <i class="fa fa-phone"></i> (+52) 55-45-39-63-80
 
 Skills {#skills}
 --------------------------------------------------------------------------------
