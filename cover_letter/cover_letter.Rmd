@@ -1,0 +1,28 @@
+---
+author: J. Gibrán Peniche
+return-address: 
+  - Chartres 60.
+  - Col. Villa Verdún
+  - 01810, Mexico City
+return-email: jgpeniche@gmail.com
+return-phone: +52-55-45-39-63-80
+subject: Company Name
+opening: HR Department
+closing: Best regards,
+signature: J. Gibrán Peniche
+
+output: komaletter::komaletter
+---
+
+My name is Gibrán Peniche, and I've a Bachelor's Degree in Actuarial Sciences and a Bachelor's Degree in Financial Direction Both from Instituto Tecnológico Autónomo de México (ITAM), Mexico City. With this robust financial and statistical academic background in addition to solid self-built skills on data science and my 2 year experience in academic Financial Analysis, I'm writing to express my interest in joining the COMPANY NAME team at the **POSITION** position.
+
+During my last two years at ITAM I had the oportunity of working in both the Accountig and Actuarial Sciences Departments. On the first one, working under the tutoring of Dr. Araceli Espinosa, I was responsible of Sales Forecasting workshops for Financial Analysis Students and revising preliminary deliveries on industry analysis. On the second one, under the tutoring of Dr. Manuel Mendoza and Dr. Alberto Contreras, I was responsible of translating R to C++ code and designing and deploying a dashboard through shiny for a Dirichlet process (non-parametric bayesian inference).
+
+In addition to these academic positions I had the opportunity to represent Mexico, as part of a 5 member team, in the 2019-2020 CFA Institute Research Challenge as a regional finalist. The task we undertook was to perform a financial analysis of Grupo Aeroportuario del Pacífico and issue an investment recommendation under the most estrict CFA Institute front and back end requirements.
+
+On top of the skills I've been acquiring through these processes, I've develped a keen interest in Bayesian Statistics and Data Science which had led me to acquire substantial self-taught expertise in advanced programming languages like R, SQL and Machine Learning, which I strongly believe are powerful tools for the asset management profession as a complement for the standard proprietary software packages.
+
+Finally I was responsible for the project Salsa con Colmillo Dancing School and Company were I was responsible of mentoring a 5 person team and principal responsible of choreographic desing. Under the 4 year period as president and founder we achieved a second place at the interamerican Casino Championship Ruedafest 2018.
+
+For all these reasons I'm confident I could be an asset for your firm and become a real team player since day 1. I'd love to talk in more detail of my experience and the value I could bring to the firm.
+
