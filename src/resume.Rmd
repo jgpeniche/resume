@@ -93,16 +93,31 @@ Courses Included: Portfolio Management, Financial Analysis, Corporate Finance, F
 Experience {data-icon=briefcase} 
 --------------------------------------------------------------------------------
 
+### Model Validation Consultant
+
+*Risk Management Direction*
+
+Scotiabank
+
+09-2020 - Present
+
+**Description**:
+
+  - Review theoretical foundations for all the models in the inventory except for retail credit risk
+  - Reproduce independently model results, corroborate model assumptions with user data and assess model documentation completeness
+  - Propose and participate in model robustness enhancement with applicable ML/AI methodology
+
+
 ### Assistant 
 
 *Actuarial Sciences Department*
 
 ITAM
 
-09-2019 - 05-2020
+09-2019 - 06-2020
 
-Manuel Mendoza Ramírez, PhD.
 Alberto Contreras Cristán, PhD
+Manuel Mendoza Ramírez, PhD.
 
 **Description**:
 
@@ -116,7 +131,7 @@ Alberto Contreras Cristán, PhD
 
 ITAM
 
-06-2018 - Present
+06-2018 - 06-2020
 
 Araceli Elguea Espinosa, PhD
 
