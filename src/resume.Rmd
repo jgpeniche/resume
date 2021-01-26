@@ -20,7 +20,7 @@ Aside
 ================================================================================
 
 ```{r Logo}
-knitr::include_graphics(here::here('figs', 'dists.png'))
+knitr::include_graphics(here::here('figs', 'dists.jpeg'))
 
 ```
 
@@ -29,6 +29,8 @@ Contact Info {#contact}
 
 - <i class="fa fa-envelope"></i> jgpeniche@gmail.com
 - <i class="fa fa-github"></i> github.com/jgpeniche
+- <i class="fa fa-medium"></i> https://jgpeniche.medium.com/ 
+- <i class="fa fa-twitter"></i> @PenicheGibran
 - <i class="fa fa-phone"></i> (+52) 55-45-39-63-80
 
 Skills {#skills}
@@ -38,8 +40,8 @@ Skills {#skills}
 
 - <i class="fa fa-laptop-code"></i> Microsoft Office
 - <i class="fa fa-laptop-code"></i> R (Shiny, MarkDown) 
+- <i class="fa fa-laptop-code"></i> SQL
 - <i class="fa fa-laptop-code"></i> C++
-- <i class="fa fa-laptop-code"></i> Julia
 
 **Languages:** 
 
@@ -101,11 +103,14 @@ Scotiabank
 
 09-2020 - Present
 
+Ana Laura Minor Castillo, MS
+
 **Description**:
 
-  - Review theoretical foundations for all the models in the inventory except for retail credit risk
-  - Reproduce independently model results, corroborate model assumptions with user data and assess model documentation completeness
-  - Propose and participate in model robustness enhancement with applicable ML/AI methodology
+  - Validate theoretical framework, assumptions and limitations of all models in the inventory (derivatives, credit risk, market risk, interest rate risk, operational risk, etc)
+  - Corroborate model assumptions with user data and assess model documentation
+  - Reproduce results independently and assess discrepancies between results
+  - Propose and participate in model robustness enhancement with applicable ML/AI methodology and/or more adequate models
 
 
 ### Assistant 
@@ -140,7 +145,7 @@ Araceli Elguea Espinosa, PhD
   - Workshops on sales estimation
   - Applied Linear Regression
   
-### Seminarist 
+### Speaker 
 
 *Finantial Direction Representation*
 
@@ -198,6 +203,17 @@ N/A
 **Organizer**: CFA Society Mexico 
 
 **Description**: *Issue an investment recommendation on a publicly traded firm based on fundamental analysis. Competition consisted on a written report and an oral presentation.* 
+
+### Cuestion de Datos, Podcast
+Co-Creator & Co-Host 
+
+N/A
+
+04-2020 - Present
+
+
+
+**Description**: Divulge podcast on themes concerning Data Science, Statistics & Machine Learning
 
 ### Banking the Unbankable, Financial Inclusion Challenge
 
