@@ -23,9 +23,9 @@ h1, h2, h3 {
 } 
 
 
-/* link color to blue */
+/* link color to green */
 a:link {
-  color: #545e75; 
+  color: #C0C0C0; 
 }
 
 /* Avoid the breaking within a section */
@@ -50,7 +50,7 @@ a:link {
 /* Sizing variables of sidebar */
 :root {
   --sidebar-width: 16rem; /* Shrink sidebar width  */
-  --sidebar-background-color: #cecece;  /* Make sidebar personalized grey */ 
+  --sidebar-background-color: #000000;  /* Make sidebar personalized grey */ 
   --sidebar-horizontal-padding: 0in; /* Reduce sidebar padding */
   --decorator-border: 1px solid #000000; /* Make timeline lines black */
 }
@@ -105,6 +105,10 @@ a:link {
     background-color: #cecece;
 }
 
+[data-id="contact"] ul {
+    color:#C0C0C0;
+}
+
 /* There's too much blank space on the left of the main body, this reduces it */
 [data-id="main"] {
     /*width: var(--main-width);
@@ -128,3 +132,13 @@ this changes the justification*/
     #777;*/
     bottom: -220px;
 }
+
+.aside .level2 {
+    color: #C0C0C0;
+}
+
+.aside h2 {
+    color: #C0C0C0;
+}
+
+
