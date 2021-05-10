@@ -6,7 +6,7 @@ return-address:
   - 01810, Mexico City
 return-email: jgpeniche@gmail.com
 return-phone: +52-55-45-39-63-80
-subject: Company Name
+subject: Franklin Templeton Investments
 opening: HR Department
 closing: Best regards,
 signature: J. Gibrán Peniche
@@ -14,7 +14,7 @@ signature: J. Gibrán Peniche
 output: komaletter::komaletter
 ---
 
-My name is Gibrán Peniche, and I've a Bachelor's Degree in Actuarial Sciences and a Bachelor's Degree in Financial Direction Both from Instituto Tecnológico Autónomo de México (ITAM), Mexico City. With this robust financial and statistical academic background in addition to solid self-built skills on data science and my 2 year experience in academic Financial Analysis, I'm writing to express my interest in joining the COMPANY NAME team at the **POSITION** position.
+My name is Gibrán Peniche, and I've a Bachelor's Degree in Actuarial Sciences and a Bachelor's Degree in Financial Direction Both from Instituto Tecnológico Autónomo de México (ITAM), Mexico City. With this robust financial and statistical academic background in addition to solid self-built skills on data science and my 2 year experience in academic Financial Analysis, I'm writing to express my interest in joining the Franklin Templeton Investments team at the **Junior Investment Risk & Reporting Analyst** position.
 
 During my last two years at ITAM I had the oportunity of working in both the Accountig and Actuarial Sciences Departments. On the first one, working under the tutoring of Dr. Araceli Espinosa, I was responsible of Sales Forecasting workshops for Financial Analysis Students and revising preliminary deliveries on industry analysis. On the second one, under the tutoring of Dr. Manuel Mendoza and Dr. Alberto Contreras, I was responsible of translating R to C++ code and designing and deploying a dashboard through shiny for a Dirichlet process (non-parametric bayesian inference).
 

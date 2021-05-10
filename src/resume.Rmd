@@ -28,8 +28,8 @@ Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> jgpeniche@gmail.com
-- <i class="fa fa-github"></i> github.com/jgpeniche
-- <i class="fa fa-medium"></i> https://jgpeniche.medium.com/ 
+- <i class="fa fa-github"></i> jgpeniche
+- <i class="fa fa-medium"></i> jgpeniche 
 - <i class="fa fa-twitter"></i> @PenicheGibran
 - <i class="fa fa-phone"></i> (+52) 55-45-39-63-80
 
@@ -61,6 +61,10 @@ Areas of Interest {#interests}
 <i class="fa fa-wave-square"></i> Bayesian Inference for financial models (time series, portfolio management, stochastic simulation, forecasting) 
 
 <i class="fa fa-wave-square"></i> Finance from the data science perspective
+
+<i class="fa fa-wave-square"></i> Reproducibility and good software practices
+
+<i class="fa fa-wave-square"></i> Cloud computing
 
 
 Main
@@ -145,35 +149,6 @@ Araceli Elguea Espinosa, PhD
   - Workshops on sales estimation
   - Applied Linear Regression
   
-### Speaker 
-
-*Finantial Direction Representation*
-
-ITAM
-
-02-2020 - 05-2020
-
-
-
-**Description**:
-  
-  - Workshops in creation of complete data products for finance (Markdown & Shiny) and model calibration
-  
-### Assistant 
-
-*Social Service Office*
-
-ITAM
-
-06-2016 - 06-2017
-
-Gisela Carmona Rodríguez
-
-**Description**:
-
-  - Social service release and exchange courses revalidation procedures
-  -	Support on the coordination of “Prepa Abierta para adultos” and “PERAJ adopta un amig@” programs 
-
 ### President & Founder
 
 *Salsa con Colmillo Dancing School & Company*
@@ -192,7 +167,7 @@ ITAM
 Extra Curricular Activities {data-icon=file-alt}
 --------------------------------------------------------------------------------
 
-### CFA Challenge
+### CFA Lvl. 1
 
 National 1st Place, Regional Finalist
 
@@ -200,32 +175,31 @@ N/A
 
 11-2019 - 04-2020
 
-**Organizer**: CFA Society Mexico 
+**Organizer**: CFA Institute 
 
 **Description**: *Issue an investment recommendation on a publicly traded firm based on fundamental analysis. Competition consisted on a written report and an oral presentation.* 
 
+### CFA Research Challenge
+
+Succesfully completed CFA Program Exam level 1
+
+N/A
+
+02-2021
+
+**Organizer**: CFA Institute 
+
+**Description**: *The CFA Program is a three-part exam that tests the fundamentals of investment tools, valuing assets, portfolio management, and wealth planning. The CFA Program is typically completed by those with backgrounds in finance, accounting, economics, or business.* 
+
 ### Cuestion de Datos, Podcast
+
 Co-Creator & Co-Host 
 
 N/A
 
 04-2020 - Present
 
-
-
 **Description**: Divulge podcast on themes concerning Data Science, Statistics & Machine Learning
-
-### Banking the Unbankable, Financial Inclusion Challenge
-
-Participant
-
-N/A
-
-05-2019
-
-**Organizer**: PwC
-
-**Description**: *Create a tuiton loan for Mexican Students. The loan would be collateralized on future income and over a Temporal life insurance policy in order for interest to be affordable.* 
 
 ### Realized vs. Average Returns on statistical significance of CAPM
 
