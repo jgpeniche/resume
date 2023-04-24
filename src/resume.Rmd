@@ -33,39 +33,30 @@ Contact Info {#contact}
 - <i class="fa fa-twitter"></i> @PenicheGibran
 - <i class="fa fa-phone"></i> (+52) 55-45-39-63-80
 
-Skills {#skills}
---------------------------------------------------------------------------------
-
 **IT:** 
 
-- <i class="fa fa-laptop-code"></i> Microsoft Office
-- <i class="fa fa-laptop-code"></i> R (Shiny, MarkDown) 
-- <i class="fa fa-laptop-code"></i> SQL
-- <i class="fa fa-laptop-code"></i> C++
+- - **[**|||||**]** Azure (Databricks, DataFactory, Synapse & DataLake) 
+- - **[**|||||**]** R (Shiny, Tidyverse, Tidymodels)
+- - **[**|||||**]** SQL (Data Analysis & ETL/ELT)
+- - **[**|||||**]** Spark (PySpark, SplarklyR)
+- - **[**|||||**]** Microsoft Office
+- - **[**|||| **]** Python (Pandas, SciKitLearn, Flask)  
+- - **[**|||| **]** Git
+- - **[**|||  **]** BI (Tableau, Power BI, Google Data Studio, Looker)
+- - **[**|||  **]** Google Cloud Platform (Composer, BigQuery, CloudRun)
 
 **Languages:** 
 
 - - <i class="fa fa-globe-americas"></i> Spanish
 - - <i class="fa fa-globe-americas"></i> English
 
+**Interests:** 
 
-Areas of Interest {#interests}
---------------------------------------------------------------------------------
-
-<i class="fa fa-wave-square"></i> Asset Managment
-
-<i class="fa fa-wave-square"></i> Financial Analysis
-
-<i class="fa fa-wave-square"></i> QRM
-
-<i class="fa fa-wave-square"></i> Bayesian Inference for financial models (time series, portfolio management, stochastic simulation, forecasting) 
-
-<i class="fa fa-wave-square"></i> Finance from the data science perspective
-
-<i class="fa fa-wave-square"></i> Reproducibility and good software practices
-
-<i class="fa fa-wave-square"></i> Cloud computing
-
+- - <i class="fa-solid fa-head-side-virus"></i> Cloud Computing
+- - <i class="fa-solid fa-head-side-virus"></i> MLOps
+- - <i class="fa-solid fa-head-side-virus"></i> Bayesian Inference
+- - <i class="fa-solid fa-head-side-virus"></i> Data Literacy, Reproducibility & good software practices
+- - <i class="fa-solid fa-head-side-virus"></i> Data Engineering
 
 Main
 ================================================================================
@@ -99,13 +90,31 @@ Courses Included: Portfolio Management, Financial Analysis, Corporate Finance, F
 Experience {data-icon=briefcase} 
 --------------------------------------------------------------------------------
 
+### Data Science Consultant
+
+*SONG Intelligence*
+
+Accenture
+
+05-2021 - Present
+
+Martín Folino, MBA
+
+**Description**:
+
+*Agile* design, deploy, govern and transfer of *End-2-End* **Data Products** along every step of the analytics value (Data collection, Procurement, EDA, Modelling, Hypothesis Testing, forecasting, executive visualization, model & pipeline versioning and monitoring) using *state-of.the-art* technologies. Responsibilities included team management, project planning, architecture design & validation, executive communication and stakeholder management.
+
++ **Analytics Pod - business conglomerate:** Lead a 4 person team to deploy *End-2-End* cloud based data products (ML Models, Data Pipelines, Executive Dashboards, Web Apps) spanning multiple industries & departments (autoparts, retail, real state, pork meat, financial, human resources), using Agile methodology.
++ **Analytics Pod - delivery client:** Lead a 10 person team to deploy Governance Analytics, including monitoring, quality assurance and data remediation pipelines.
++ **Sales Operations and Client Engagement: - delivery client** Deploy sales cycle management frameworks and custumer engagement & churn analytics for a delivery client using SQL - based analytics and dashboards.
+
 ### Model Validation Consultant
 
 *Risk Management Direction*
 
 Scotiabank
 
-09-2020 - Present
+09-2020 - 05-2021
 
 Ana Laura Minor Castillo, MS
 
@@ -116,39 +125,6 @@ Ana Laura Minor Castillo, MS
   - Reproduce results independently and assess discrepancies between results
   - Propose and participate in model robustness enhancement with applicable ML/AI methodology and/or more adequate models
 
-
-### Assistant 
-
-*Actuarial Sciences Department*
-
-ITAM
-
-09-2019 - 06-2020
-
-Alberto Contreras Cristán, PhD
-Manuel Mendoza Ramírez, PhD.
-
-**Description**:
-
-  - Bayesian inference for finite populations via semi paremetric models
-  - Infinite Normal Mixtures with Dirichilet Process prior
-  - Code Optimization translating from R to Julia and c++
-
-### Assistant 
-
-*Accounting Department*
-
-ITAM
-
-06-2018 - 06-2020
-
-Araceli Elguea Espinosa, PhD
-
-**Description**:
-
-  - Workshops on sales estimation
-  - Applied Linear Regression
-  
 ### President & Founder
 
 *Salsa con Colmillo Dancing School & Company*
@@ -166,6 +142,17 @@ ITAM
 
 Extra Curricular Activities {data-icon=file-alt}
 --------------------------------------------------------------------------------
+
+### Cuestion de Datos, Podcast
+
+Co-Creator & Co-Host 
+
+N/A
+
+04-2020 - Present
+
+**Description**: Podcast on themes concerning Data Science, Statistics & Machine Learning.
+
 
 ### CFA Lvl. 1
 
@@ -190,53 +177,3 @@ N/A
 **Organizer**: CFA Institute 
 
 **Description**: *The CFA Program is a three-part exam that tests the fundamentals of investment tools, valuing assets, portfolio management, and wealth planning. The CFA Program is typically completed by those with backgrounds in finance, accounting, economics, or business.* 
-
-### Cuestion de Datos, Podcast
-
-Co-Creator & Co-Host 
-
-N/A
-
-04-2020 - Present
-
-**Description**: Divulge podcast on themes concerning Data Science, Statistics & Machine Learning
-
-### Realized vs. Average Returns on statistical significance of CAPM
-
-Research
-
-N/A
-
-12-2018
-
-**Organizer**: Atanu Paul  
-
-**Description**: *Test statiscal significance of realized versus average returns in portfolios of Mexican publicly traded stocks.*
-
-
-### Bayesian inference over Mexican TIIE
-
-Research
-
-N/A
-
-06-2018
-
-**Organizer**: Felix H. A. Matthys  
-
-**Description**: *Fitting a Student´s T distribution over changes in levels of Mexican TIIE at different maturities. Degrees of freedom of normalized data were to be found in order to calculate Value at Risk of a bond portfolio.* 
-
-### Ruedafest, Latin-American Casino Championships
-
-Latin-American 2nd Place
-
-N/A
-
-02-2018
-
-**Organizer**: RuedaFest 
-
-**Description**: *2nd place of Rueda Novel Category with a 20-element coreography.*
- 
- 
-
