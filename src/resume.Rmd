@@ -35,15 +35,15 @@ Contact Info {#contact}
 
 **IT:** 
 
-- - **[**|||||**]** Azure (Databricks, DataFactory, Synapse & DataLake) 
+- - **[**|||||**]** Azure (Databricks, Azure ML, DataFactory, Synapse & Fabric)
+- - **[**|||||**]** GCP (BigQuery, Cloud Composer, Data Fusion)
 - - **[**|||||**]** R (Shiny, Tidyverse, Tidymodels)
 - - **[**|||||**]** SQL (Data Analysis & ETL/ELT)
 - - **[**|||||**]** Spark (PySpark, SplarklyR)
-- - **[**|||||**]** Microsoft Office
+- - **[**|||| **]** Azure, AWS & GCP for Analytics Architecture
 - - **[**|||| **]** Python (Pandas, SciKitLearn, Flask)  
 - - **[**|||| **]** Git
-- - **[**|||  **]** BI (Tableau, Power BI, Google Data Studio, Looker)
-- - **[**|||  **]** Google Cloud Platform (Composer, BigQuery, CloudRun)
+- - **[**|||  **]** BI (Tableau, Power BI, Quciksight, Looker, Tableau)
 
 **Languages:** 
 
@@ -53,9 +53,10 @@ Contact Info {#contact}
 **Interests:** 
 
 - - <i class="fa-solid fa-head-side-virus"></i> Cloud Computing
-- - <i class="fa-solid fa-head-side-virus"></i> MLOps
+- - <i class="fa-solid fa-head-side-virus"></i> CI/CD & DevOps
+- - <i class="fa-solid fa-head-side-virus"></i> DataOps & MLOps
 - - <i class="fa-solid fa-head-side-virus"></i> Bayesian Inference
-- - <i class="fa-solid fa-head-side-virus"></i> Data Literacy, Reproducibility & good software practices
+- - <i class="fa-solid fa-head-side-virus"></i> Data Literacy & Data Led Trasnformario
 - - <i class="fa-solid fa-head-side-virus"></i> Data Engineering
 
 Main
@@ -63,6 +64,8 @@ Main
 
 J. Gibrán Peniche {#title}
 --------------------------------------------------------------------------------
+
+Data person passionate for developing *data assets* to **create value through data**. Resilient, detailed & results oriented to create theoritically robust data products in line with responsible AI. I strongly believe passion, teamwork and work-life balance are the key for success.
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -102,11 +105,12 @@ Martín Folino, MBA
 
 **Description**:
 
-*Agile* design, deploy, govern and transfer of *End-2-End* **Data Products** along every step of the analytics value (Data collection, Procurement, EDA, Modelling, Hypothesis Testing, forecasting, executive visualization, model & pipeline versioning and monitoring) using *state-of.the-art* technologies. Responsibilities included team management, project planning, architecture design & validation, executive communication and stakeholder management.
+**Design**, **build** & **deploy** of *End-2-End* **Data Products** along every step of the analytics value chain (Data collection, Procurement, EDA, Modelling, Hypothesis Testing, forecasting, executive visualization, modelling & infrastructure versioning and monitoring) using *state-of.the-art* technologies. Responsibilities included team management, project planning, staffing, commercial efforts, architecture design & validation, executive communication and stakeholder management.
 
++ **Data Maturity Assessment - beauty client** Lead a 2 person team to condunct a top down data maturity assessment, including high level strategy, data platform, data culture, C-Level maturity and operational talent inventory.
 + **Analytics Pod - business conglomerate:** Lead a 4 person team to deploy *End-2-End* cloud based data products (ML Models, Data Pipelines, Executive Dashboards, Web Apps) spanning multiple industries & departments (autoparts, retail, real state, pork meat, financial, human resources), using Agile methodology.
 + **Analytics Pod - delivery client:** Lead a 10 person team to deploy Governance Analytics, including monitoring, quality assurance and data remediation pipelines.
-+ **Sales Operations and Client Engagement: - delivery client** Deploy sales cycle management frameworks and custumer engagement & churn analytics for a delivery client using SQL - based analytics and dashboards.
++ **Sales Operations and Client Engagement:- delivery client:**De ploy and desging Client Funnel Analytics to enable sales team strategies.
 
 ### Model Validation Consultant
 
@@ -124,6 +128,7 @@ Ana Laura Minor Castillo, MS
   - Corroborate model assumptions with user data and assess model documentation
   - Reproduce results independently and assess discrepancies between results
   - Propose and participate in model robustness enhancement with applicable ML/AI methodology and/or more adequate models
+  - Model catalog spanned parametric inference models, Time Series Models (ARIMA, SARIMA, GARCH), derivative valuation models, Market Risk models, Liquidity Risk Models, etc
 
 ### President & Founder
 
